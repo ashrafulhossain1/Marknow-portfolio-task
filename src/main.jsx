@@ -21,7 +21,7 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: "/Marknow-portfolio-task/" } // ✅ এখানে basename যোগ করো
+  { basename: "/Marknow-portfolio-task" } // ✅ এখানে basename যোগ করো
 );
 
 createRoot(document.getElementById("root")).render(
