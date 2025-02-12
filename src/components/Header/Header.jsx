@@ -30,7 +30,7 @@ const Header = () => {
       variants={containerVariants} // Apply animation variants
       initial="hidden" // Start in the "hidden" state
       animate="visible" // Animate to the "visible" state
-      className="navbar container mx-auto fixed top-4 left-1/2 transform -translate-x-1/2 z-30 
+      className="navbar container mx-auto fixed top-1 md:top-4 left-1/2 transform -translate-x-1/2 z-30 
       backdrop-blur-md bg-white/5 shadow-md flex justify-between items-center w-full px-4 py-2 text-white"
     >
       {/* Left Side: Logo and Developer Text */}
