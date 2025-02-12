@@ -68,7 +68,7 @@ const Reviews = () => {
                     transition={{ duration: 0.8, ease: "easeOut" }}
                     className="text-3xl font-bold text-center text-gray-800 mb-12"
                 >
-                    What Our Customers Say
+                    What my Clients Say
                 </motion.h2>
 
                 {/* Reviews Grid */}
