@@ -83,7 +83,7 @@ const Reviews = () => {
                         <motion.div
                             key={review.id}
                             variants={itemVariants}
-                            className="bg-white rounded-lg shadow-md p-6 text-center hover:shadow-lg transition-shadow"
+                            className="bg-white hover:bg-slate-100 rounded-lg shadow-md p-6 text-center hover:shadow-lg transition-shadow"
                         >
                             {/* Avatar */}
                             <img
