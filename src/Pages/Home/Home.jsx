@@ -20,7 +20,7 @@ const Home = () => {
 
     return (
         <div>
-            <div className="bg-amber-300">
+            <div className="">
                 <Banner
                     name={siteProps.name}
                     title={siteProps.title}
